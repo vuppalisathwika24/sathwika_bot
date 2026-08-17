@@ -3,8 +3,39 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-# C extensions
+#c extensions
 *.so
+
+
+#ignore conda env
+.conda/
+.conda-env/
+.conda-env-meta/  
+.conda-env-meta-yaml/
+.conda-env-meta-yaml-conda/
+.conda-env-meta-yaml-conda-meta/
+.conda-env-meta-yaml-conda-meta-yaml/
+.conda-env-meta-yaml-conda-meta-yaml-conda/
+.conda-env-meta-yaml-conda-meta-yaml-conda-meta/
+.conda-env-meta-yaml-conda-meta-yaml-conda-meta-yaml/
+.conda-env-meta-yaml-conda-meta-yaml-conda-meta-yaml-conda/
+.conda-env-meta-yaml-conda-meta-yaml-conda-meta-yaml-conda-meta/
+.conda-env-meta-yaml-conda-meta-yaml-conda-meta-yaml-conda-meta-yaml/
+.conda-env-meta-yaml-conda-meta-yaml-conda-meta-yaml-conda-meta-yaml-conda/
+.conda-env-meta-yaml-conda-meta-yaml-conda-meta-yaml-conda-meta-yaml-conda-meta/        
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Distribution / packaging
 .Python
